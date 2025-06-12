@@ -1,0 +1,5 @@
+[[maps]]
+name = "Geologische Karte 1874-1937"
+path = "berlin/geoportal/umweltschutz/geo-18-19"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Geologische Karte 1874-1937"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/949e6d92-caa3-346c-adb3-d0972e9bf095"

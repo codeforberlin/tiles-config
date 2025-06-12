@@ -1,0 +1,3 @@
+[tiles]
+host = "https://tiles2.codefor.de"
+path = "/data"

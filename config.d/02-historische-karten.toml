@@ -1,0 +1,77 @@
+[[maps]]
+name = "Berlin um 1650"
+path = "berlin/geoportal/historische-karten/1650"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1650"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1690"
+path = "berlin/geoportal/historische-karten/1690/.vrt"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1690"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1750"
+path = "berlin/geoportal/historische-karten/1750"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1750"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1800"
+path = "berlin/geoportal/historische-karten/1800"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1800"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1850"
+path = "berlin/geoportal/historische-karten/1850"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1850"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1880"
+path = "berlin/geoportal/historische-karten/1880"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1880"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1910"
+path = "berlin/geoportal/historische-karten/1910"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1910"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1940"
+path = "berlin/geoportal/historische-karten/1940"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1940"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Berlin um 1986"
+path = "berlin/geoportal/historische-karten/1986"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1986"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Gebäudealter 1992/93"
+path = "berlin/geoportal/historische-karten/gebaeudealter"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudealter 1992/93"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Gebäudeschäden 1945"
+path = "berlin/geoportal/historische-karten/gebschaden"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Gebäudeschäden 1945"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
+
+[[maps]]
+name = "Hobrechtplan 1862"
+path = "berlin/geoportal/historische-karten/hobrecht"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Hobrechtplan 1862"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/457ffd8e-b9e1-359d-9d07-85acef6786dd"
+
+[[maps]]
+name = "Straubes Übersichtsplan von Berlin (Historische Mitte)"
+path = "berlin/geoportal/historische-karten/straubeplan"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Straubes Übersichtsplan von Berlin (Historische Mitte)"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/9271450c-f95a-358a-9cff-093484cb73ae"
