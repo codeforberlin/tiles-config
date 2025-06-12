@@ -8,7 +8,7 @@ parser.add_argument('HISTOMAP_PATH')
 args = parser.parse_args()
 
 lines = []
-for file_path in Path(args.PATH).glob('*.tif'):
+for file_path in sorted(Path(args.PATH).glob('*.tif')):
     lines += [
         '[[maps]]',
         f'name = "HistoMap Kartenblatt {file_path.stem}"',

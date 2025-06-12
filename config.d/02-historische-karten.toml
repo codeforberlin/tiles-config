@@ -6,7 +6,7 @@ attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/met
 
 [[maps]]
 name = "Berlin um 1690"
-path = "berlin/geoportal/historische-karten/1690/.vrt"
+path = "berlin/geoportal/historische-karten/1690"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Berlin um 1690"
 attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/2e9cd015-e8d1-4b55-a8c1-57374f11bbd6"
 
