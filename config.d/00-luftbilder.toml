@@ -1,4 +1,9 @@
 [[maps]]
+name = "Digitale farbige TrueOrthophotos 2025 (DOP20RGB)"
+path = "berlin/geoportal/luftbilder/2025-dop20rgb"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB)"
+
+[[maps]]
 name = "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)"
 path = "berlin/geoportal/luftbilder/2024-dop20rgbi"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2024 (DOP20RGBI)"
@@ -29,15 +34,15 @@ attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Ber
 attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/95a1430d-04e9-434b-ba1e-9cd9f0e673b6"
 
 [[maps]]
+name = "Digitale farbige Orthophotos 2020 (DOP20RGB)"
+path = "berlin/geoportal/luftbilder/2020-dop20rgb"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2020 (DOP20RGB)"
+
+[[maps]]
 name = "Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR) - Sommerbefliegung"
 path = "berlin/geoportal/luftbilder/2020-truedop20cir"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-TrueOrthophotos 2020 (TrueDOP20CIR)"
 attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/95a1430d-04e9-434b-ba1e-9cd9f0e673b6"
-
-[[maps]]
-name = "Digitale farbige Orthophotos 2020 (DOP20RGB)"
-path = "berlin/geoportal/luftbilder/2020-dop20rgb"
-attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2020 (DOP20RGB)"
 
 [[maps]]
 name = "Digitale Color-Infrarot-Orthophotos 2020 (DOP20CIR) - Sommerbefliegung"
