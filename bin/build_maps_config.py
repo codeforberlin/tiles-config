@@ -1,6 +1,13 @@
+import argparse
 import json
 
 from gdal_tiles_api.config import load_config
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--include', nargs='*')
+parser.add_argument('--exclude', nargs='*')
+
+args = parser.parse_args()
 
 config = load_config()
 
@@ -11,12 +18,18 @@ data = {
     },
     'view': {
         'center': [52.51, 13.37628],
-        'zoom': 12
+        'zoom': 14
     },
     'maps': []
 }
 
 for map_settings in config.maps:
+    if args.include and not any(str(map_settings.path).startswith(s) for s in args.include):
+        continue
+
+    if args.exclude and any(str(map_settings.path).startswith(s) for s in args.exclude):
+        continue
+
     if 'href' in map_settings.attribution:
         attribution = '<a href="{href}" _target="blank">{text}</a>'.format(**map_settings.attribution)
     else:
