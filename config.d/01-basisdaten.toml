@@ -3,3 +3,9 @@ name = "Karte von Berlin 1:5000 (K5 - Farbausgabe)"
 path = "berlin/geoportal/basisdaten/k5"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5 - Farbausgabe)"
 attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a"
+
+[[maps]]
+name = "Karte von Berlin 1:5000 (K5 - SW-Ausgabe)"
+path = "berlin/geoportal/basisdaten/k5sw"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5 - SW-Ausgabe)"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a"
