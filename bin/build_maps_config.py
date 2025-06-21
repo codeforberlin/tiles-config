@@ -30,7 +30,7 @@ for map_settings in config.maps:
         continue
 
     if "href" in map_settings.attribution:
-        attribution = '<a href="{href}" _target="blank">{text}</a>'.format(
+        attribution = '<a href="{href}" target="_blank">{text}</a>'.format(
             **map_settings.attribution
         )
     else:
