@@ -1,0 +1,34 @@
+[Unit]
+Description=GDAL-Tiles-API gunicorn daemon
+After=network.target
+
+[Service]
+User=tiles
+Group=tiles
+
+WorkingDirectory=/srv/tiles/tiles-config
+
+LogsDirectory=gunicorn
+RuntimeDirectory=gunicorn
+
+Environment="PYTHONUNBUFFERED=1"
+
+ExecStart=/srv/tiles/tiles-config/env/bin/gunicorn \
+    --workers 4 \
+    --worker-class uvicorn.workers.UvicornWorker \
+    --timeout 5 \
+    --bind unix:/run/gunicorn/tiles.sock \
+    --pid /run/gunicorn/tiles.pid \
+    --access-logfile /var/log/gunicorn/access.log \
+    --error-logfile /var/log/gunicorn/error.log \
+    gdal_tiles_api.main:app
+
+ExecReload=/bin/sh -c '/usr/bin/pkill -HUP -F ${GUNICORN_PID_FILE}'
+
+ExecStop=/bin/sh -c '/usr/bin/pkill -TERM -F ${GUNICORN_PID_FILE}'
+
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
