@@ -1,12 +1,14 @@
 [[maps]]
-name = "Digitale farbige Orthophotos 2025 Sommerbefliegung (DOP20RGB)"
+name = "Digitale farbige Orthophotos 2025 (DOP20RGB) - Sommerbefliegung"
 path = "berlin/geoportal/luftbilder/2025-dop20rgb-sommer"
-attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB)"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB) - Sommerbefliegung"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/api/records/73a3de47-ab2a-4be2-ae5d-8d6f8fe5cc1c"
 
 [[maps]]
 name = "Digitale farbige Orthophotos 2025 (DOP20RGB)"
 path = "berlin/geoportal/luftbilder/2025-dop20rgb"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB)"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/api/records/73a3de47-ab2a-4be2-ae5d-8d6f8fe5cc1c"
 
 [[maps]]
 name = "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)"
