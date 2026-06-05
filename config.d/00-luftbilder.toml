@@ -1,4 +1,10 @@
 [[maps]]
+name = "Digitale farbige TrueOrthophotos 2026 (DOP20RGB)"
+path = "berlin/geoportal/luftbilder/2026-dop20rgb"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2026 (DOP20RGBI)"
+attribution.href = "https://daten.berlin.de/datensaetze/digitale-farbige-trueorthophotos-2026-dop20rgbi-9ff3159b"
+
+[[maps]]
 name = "Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)"
 path = "berlin/geoportal/luftbilder/2025-truedop20rgb"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)"
