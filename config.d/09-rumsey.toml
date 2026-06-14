@@ -1,0 +1,6 @@
+[[maps]]
+name = "Karte des Deutschen Reiches 1893"
+path = "rumsey/karte-des-deutschen-reiches-1893"
+dataset = "rumsey/cog/g5820727.tif"
+attribution.text = "David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries"
+attribution.href = "https://www.davidrumsey.com/blog/2011/4/10/karte-des-deutschen-reiches-1893"
