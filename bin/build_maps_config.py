@@ -29,12 +29,28 @@ for map_settings in config.maps:
     if args.exclude and any(str(map_settings.path).startswith(s) for s in args.exclude):
         continue
 
-    if "href" in map_settings.attribution:
-        attribution = '<a href="{href}" target="_blank">{text}</a>'.format(
-            **map_settings.attribution
-        )
-    else:
-        attribution = map_settings.attribution.get("text", "")
+    attribution_list = []
+    if map_settings.attribution:
+        if "href" in map_settings.attribution:
+            attribution_list.append(
+                '<a href="{href}" target="_blank">{text}</a>'.format(
+                    **map_settings.attribution
+                )
+            )
+        else:
+            attribution_list.append(map_settings.attribution.get("text", ""))
+
+    if map_settings.rights:
+        if "href" in map_settings.rights:
+            attribution_list.append(
+                '<a href="{href}" target="_blank">{text}</a>'.format(
+                    **map_settings.rights
+                )
+            )
+        else:
+            attribution_list.append(map_settings.rights.get("text", ""))
+
+    attribution = " / ".join(attribution_list)
 
     data["maps"].append(
         {
