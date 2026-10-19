@@ -1,3 +1,6 @@
 [tiles]
 host = "https://tiles.codefor.de"
 path = "/data"
+
+min_zoom = 6
+max_zoom = 20
