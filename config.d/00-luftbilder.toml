@@ -2,18 +2,19 @@
 name = "Digitale farbige TrueOrthophotos 2026 (DOP20RGB)"
 path = "berlin/geoportal/luftbilder/2026-dop20rgb"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2026 (DOP20RGBI)"
-attribution.href = "https://daten.berlin.de/datensaetze/digitale-farbige-trueorthophotos-2026-dop20rgbi-9ff3159b"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/6067c376-47e9-49d7-8d17-d3e56c0b8dd0"
 
 [[maps]]
 name = "Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)"
 path = "berlin/geoportal/luftbilder/2025-truedop20rgb"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2025 (TrueDOP20RGB)"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/488857c4-d13f-410e-bf3b-569ca73af5d2"
 
 [[maps]]
 name = "Digitale farbige Orthophotos 2025 (DOP20RGB)"
 path = "berlin/geoportal/luftbilder/2025-dop20rgb"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2025 (DOP20RGB)"
-attribution.href = "https://gdi.berlin.de/geonetwork/srv/api/records/73a3de47-ab2a-4be2-ae5d-8d6f8fe5cc1c"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/73a3de47-ab2a-4be2-ae5d-8d6f8fe5cc1c"
 
 [[maps]]
 name = "Digitale farbige TrueOrthophotos 2024 (DOP20RGBI)"
@@ -24,14 +25,14 @@ attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/met
 [[maps]]
 name = "Digitale farbige TrueOrthophotos 2023 (DOP20RGBI)"
 path = "berlin/geoportal/luftbilder/2023-dop20rgbi"
-attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2024 (DOP20RGBI)"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2023 (DOP20RGBI)"
 attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/c68a287b-7ad0-4cc9-87f5-2cffebaf7113"
 
 [[maps]]
 name = "Digitale farbige TrueOrthophotos 2022 (DOP20RGBI)"
 path = "berlin/geoportal/luftbilder/2022-dop20rgbi"
-attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige Orthophotos 2024 (DOP20RGBI)"
-attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/c68a287b-7ad0-4cc9-87f5-2cffebaf7113"
+attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale farbige TrueOrthophotos 2022 (DOP20RGBI)"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/bf885681-6daa-4ce7-8bc5-15fdba32f268"
 
 [[maps]]
 name = "Digitale farbige Orthophotos 2021 (DOP20RGBI)"
@@ -155,7 +156,7 @@ attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/met
 name = "Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)"
 path = "berlin/geoportal/luftbilder/2005-dop15cir"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Digitale Color-Infrarot-Orthophotos 2005 (DOP20CIR)"
-attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/bfcbef8b-540c-4227-987b-356f6a7d7792"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/22c1bad8-1964-4c92-8bad-753eda14a7ca"
 
 [[maps]]
 name = "Digitale farbige Orthophotos 2004 (DOP25RGB)"
@@ -173,7 +174,7 @@ attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/met
 name = "Luftbilder 1953, Maßstab 1:22 000"
 path = "berlin/geoportal/luftbilder/1953"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Luftbilder 1953, Maßstab 1:22 000"
-attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/6b746499-7354-3a3a-aa70-60e1fb37f993"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/91d4b7c9-d3b0-3a2f-bab4-33bc47ca52b8"
 
 [[maps]]
 name = "Luftbilder 1928, Maßstab 1:4 000"

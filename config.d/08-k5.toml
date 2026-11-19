@@ -68,6 +68,7 @@ attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/met
 name = "Karte von Berlin 1:5000 (K5) - 2015"
 path = "berlin/k5/2015"
 attribution.text = "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin / Karte von Berlin 1:5000 (K5) - 2015"
+attribution.href = "https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/ed9d0b87-ab8b-3db0-9bf3-7f9218cc004a"
 
 [[maps]]
 name = "Karte von Berlin 1:5000 (K5) - 2014"
